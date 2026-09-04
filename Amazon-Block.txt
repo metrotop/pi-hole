@@ -1,16 +1,16 @@
-abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
-a185avoddashs3ww-a.akamaihd.net
-unagi-na.amazon.com
-customerevents.netflix.com
-arcus-uswest.amazon.com
-avs-alexa-19-eu.amazon.com
-ktpx-eu.amazon.com
-dcape-na.amazon.com
-fireoscaptiveportal.com
-aviary.amazon.de
-api.eu.amazonalexa.com
-mas-ext-eu.amazon.com
-mads-eu.amazon.com
-dp-gw-na.amazon.com
-ftv-smtv.ntp-fireos.com
-dp-discovery-na-ext.amazon.com
+127.0.0.1 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
+127.0.0.1 a185avoddashs3ww-a.akamaihd.net
+127.0.0.1 unagi-na.amazon.com
+127.0.0.1 customerevents.netflix.com
+127.0.0.1 arcus-uswest.amazon.com
+127.0.0.1 avs-alexa-19-eu.amazon.com
+127.0.0.1 ktpx-eu.amazon.com
+127.0.0.1 dcape-na.amazon.com
+127.0.0.1 fireoscaptiveportal.com
+127.0.0.1 aviary.amazon.de
+127.0.0.1 api.eu.amazonalexa.com
+127.0.0.1 mas-ext-eu.amazon.com
+127.0.0.1 mads-eu.amazon.com
+127.0.0.1 dp-gw-na.amazon.com
+127.0.0.1 ftv-smtv.ntp-fireos.com
+127.0.0.1 dp-discovery-na-ext.amazon.com
